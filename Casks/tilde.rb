@@ -7,7 +7,7 @@ cask "tilde" do
   desc "A tiny, beautiful text editor for macOS"
   homepage "https://tilde.euca.co"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Tilde.app"
 end
