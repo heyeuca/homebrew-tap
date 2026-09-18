@@ -1,6 +1,6 @@
 cask "tilde" do
-  version "1.0.1"
-  sha256 "513c0386a6621f261686ea16795cc658b16cec5b0795a91bf3e96e471230370b"
+  version "1.0.2"
+  sha256 "60dc206bc1a010e212b48881fe72d85b6f2cae777adfb6e48cafe2ee911ed3e0"
 
   url "https://github.com/heyeuca/Tilde/releases/download/v#{version}/Tilde-v#{version}.dmg"
   name "Tilde"
